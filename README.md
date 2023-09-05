@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitbyways and 👀 I’m interested in game development
+- 👋 Hi, I’m @gitbyways
 - 🌱 Currently I'am learning C++
 
 
